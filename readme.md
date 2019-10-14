@@ -10,6 +10,7 @@ You need to install these dependencies globally
 ## To test
 
  > npm link
+ 
  > shebangtest
 
 You should see "Hello World" output to the console!
